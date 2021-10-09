@@ -1,0 +1,17 @@
+C:\Users\domi2\source\repos\estudiantes\estudiantes\bin\Debug\estudiantes.exe.config
+C:\Users\domi2\source\repos\estudiantes\estudiantes\bin\Debug\estudiantes.exe
+C:\Users\domi2\source\repos\estudiantes\estudiantes\bin\Debug\estudiantes.pdb
+C:\Users\domi2\source\repos\estudiantes\estudiantes\bin\Debug\EntityFramework.dll
+C:\Users\domi2\source\repos\estudiantes\estudiantes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\domi2\source\repos\estudiantes\estudiantes\bin\Debug\EntityFramework.xml
+C:\Users\domi2\source\repos\estudiantes\estudiantes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\domi2\source\repos\estudiantes\estudiantes\obj\Debug\estudiantes.csproj.AssemblyReference.cache
+C:\Users\domi2\source\repos\estudiantes\estudiantes\obj\Debug\estudiantes.Form1.resources
+C:\Users\domi2\source\repos\estudiantes\estudiantes\obj\Debug\estudiantes.Properties.Resources.resources
+C:\Users\domi2\source\repos\estudiantes\estudiantes\obj\Debug\estudiantes.csproj.GenerateResource.cache
+C:\Users\domi2\source\repos\estudiantes\estudiantes\obj\Debug\estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\domi2\source\repos\estudiantes\estudiantes\obj\Debug\estudiantes.csproj.CopyComplete
+C:\Users\domi2\source\repos\estudiantes\estudiantes\obj\Debug\estudiantes.exe
+C:\Users\domi2\source\repos\estudiantes\estudiantes\obj\Debug\estudiantes.pdb
+C:\Users\domi2\source\repos\estudiantes\estudiantes\obj\Debug\estudiantes.vistas.materias.resources
+C:\Users\domi2\source\repos\estudiantes\estudiantes\obj\Debug\estudiantes.vistas.AGGnotas.resources
